@@ -1,4 +1,41 @@
 # Healthcare Management Analysis (Power BI)
+## 📌 Dashboard Pages
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="Screenshots/Home%20Dashboard.png">
+        <img src="Screenshots/Home%20Dashboard.png" width="400">
+      </a>
+      <br>
+      <b>Home Dashboard</b>
+    </td>
+    <td align="center">
+      <a href="Screenshots/Hospital%20Overview.png">
+        <img src="Screenshots/Hospital%20Overview.png" width="400">
+      </a>
+      <br>
+      <b>Hospital Overview</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="Screenshots/Patient%20Doctor%20Insights.png">
+        <img src="Screenshots/Patient%20Doctor%20Insights.png" width="400">
+      </a>
+      <br>
+      <b>Patient Doctor Insights</b>
+    </td>
+    <td align="center">
+      <a href="Screenshots/Finance%20Evaluation.png">
+        <img src="Screenshots/Finance%20Evaluation.png" width="400">
+      </a>
+      <br>
+      <b>Finance Evaluation</b>
+    </td>
+  </tr>
+</table>
 
 ## 📊 Project Overview
 
